@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavankumarVinukonda
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Full stack development with MERN 
+- 🌱 I’m a Full stack development with MERN 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ping me a mail @ vinukondapavankumar1@gmail.com
 
